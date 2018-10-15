@@ -1,5 +1,15 @@
 #!/usr/bin/env
 
+'''
+ _____ _     _           _                _      ___
+|  ___| |   | |         | |              | |    |__ \
+| |__ | |_  | |_ _   _  | |__  _ __ _   _| |_ ___  ) |
+|  __|| __| | __| | | | | '_ \| '__| | | | __/ _ \/ /
+| |___| |_  | |_| |_| | | |_) | |  | |_| | ||  __/_|
+\____/ \__|  \__|\__,_| |_.__/|_|   \__,_|\__\___(_)
+                                                    
+'''
+
 def etTuBrute():
     #I split alphabet to two parts, one containing big letters and one small
     smallAlphabet = "abcdefghijklmnopqrstuvwxyz"
